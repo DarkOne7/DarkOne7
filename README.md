@@ -34,7 +34,7 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
+<div align="center" class="wedgits">
 
 ![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkone7&theme=tokyonight)  
@@ -50,6 +50,11 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 - **Email:** adhamshawki@outlook.com
 
 </div>
+<style>
+  .wedgits {
+  direction: ltr;
+  }
+</style>
 
 ---
 
