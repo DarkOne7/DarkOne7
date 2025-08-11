@@ -34,12 +34,12 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ---
 
 ### 📊 GitHub Stats  
-<div align="left">
-  
-![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
+<div align="center">
+ <div> 
+![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkone7&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight)
+ </div>
 </div>
 
 ---
