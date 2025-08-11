@@ -34,7 +34,7 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
+<div align="left">
 
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight" height="150" />
@@ -51,7 +51,7 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/darkone7](https://github.com/darkone7)
-- **LinkedIn:** [linkedin.com/in/adham-shawki-135034204/](https://www.linkedin.com/in/adham-shawki-135034204/)
+- **LinkedIn:** [linkedin.com/in/adham-shawki/](https://www.linkedin.com/in/adham-shawki-135034204/)
 - **Email:** adhamshawki@outlook.com
 
 </div>
