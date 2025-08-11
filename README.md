@@ -1,35 +1,58 @@
-# Hi, I'm Adham Shawki 👋
-
-💻 **Cybersecurity Student** | 📱 **Web & Mobile Apps Developer**  
-I'm an 18-year-old developer passionate about building secure, modern applications.  
-Currently exploring the intersection of **software development** and **cybersecurity**.
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Adham Shawki</h1>
+<h3 align="center">💻 Cybersecurity Student | 📱 Web & Mobile Apps Developer</h3>
 
 ---
 
-## 🚀 Skills & Tools
-- **Languages:** JavaScript, Python, Java, Dart _(edit to fit your stack)_
-- **Frameworks & Libraries:** React, Flutter, Node.js, Express
-- **Databases:** MySQL, MongoDB
-- **Other:** Git, Docker, Linux
+### 🚀 About Me  
+I'm an **18-year-old developer** passionate about building **secure, scalable, and user-friendly applications**.  
+Currently diving deep into the **world of cybersecurity** while developing **web & mobile apps**.  
 
 ---
 
-## 🌟 Featured Projects
-- **[Project One](#)** – Short description of what it does.
-- **[Project Two](#)** – Short description of what it does.
-- **[Project Three](#)** – Short description of what it does.
+### 🛠 Tech Stack  
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### 📌 Featured Projects  
+- **[Secure Web App](#)** – A web platform with strong authentication & security features.  
+- **[Mobile Task Manager](#)** – Flutter-based mobile app for productivity.  
+- **[Portfolio Website](#)** – My personal responsive portfolio.  
 
 ---
 
-## 📫 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email:** your.email@example.com
+### 📊 GitHub Stats  
+<div align="center">
+  
+![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
+
+### 📫 Connect with Me  
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+</div>
+
+---
+
 > _"Code with security in mind."_ 🔐
