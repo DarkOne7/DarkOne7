@@ -36,9 +36,14 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ### 📊 GitHub Stats  
 <div align="center" dir="ltr">
 
-![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkone7&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight)
+ <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
+
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" height="150" />
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150" />
 
 </div>
 
