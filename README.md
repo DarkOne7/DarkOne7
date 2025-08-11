@@ -39,8 +39,8 @@ Currently diving deep into the **world of cybersecurity** while developing **web
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight" height="150" />
 
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darkone7&theme=tokyonight&hide_border=true" height="150" />
+  <!-- GitHub Streak Card (Backup Service) -->
+  <img src="https://streak-stats.demolab.com?user=darkone7&theme=tokyonight&hide_border=true" height="150" />
 
   <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight" height="150" />
