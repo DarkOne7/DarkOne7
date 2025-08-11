@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Adham Shawki</h1>
+<h1 align="left">Hi 👋, I'm Adham Shawki</h1>
 <h3 align="center">💻 Cybersecurity Student | 📱 Web & Mobile Apps Developer</h3>
 
 ---
@@ -11,7 +11,7 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ---
 
 ### 🛠 Tech Stack  
-<div align="center">
+<div align="left">
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,12 +44,10 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 
 ---
 
-### 📫 Connect with Me  
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+## 📫 Connect with Me
+- **GitHub:** [github.com/darkone7](https://github.com/darkone7)
+- **LinkedIn:** [linkedin.com/in/adham-shawki-135034204/](https://www.linkedin.com/in/adham-shawki-135034204/)
+- **Email:** adhamshawki@outlook.com
 
 </div>
 
