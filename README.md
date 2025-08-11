@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="left">Hi 👋, I'm Adham Shawki</h1>
-<h3 align="center">💻 Cybersecurity Student | 📱 Web & Mobile Apps Developer</h3>
+<h3 align="left">💻 Cybersecurity Student | 📱 Web & Mobile Apps Developer</h3>
 
 ---
 
@@ -34,7 +34,7 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
+<div align="left">
   
 ![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
