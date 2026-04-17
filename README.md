@@ -21,20 +21,24 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 </div> 
+
 ---
+
 ### 📊 GitHub Stats  
 <div align="left">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight" height="150" />
 </div>
+
 ---
+
 ## 📫 Connect with Me
 - **GitHub:** [github.com/darkone7](https://github.com/darkone7)
 - **LinkedIn:** [linkedin.com/in/adham-shawki/](https://www.linkedin.com/in/adham-shawki-135034204/)
 - **Email:** adhamshawki@outlook.com
 </div>
----
-> _"Code with security in mind."_ 🔐
 
-this is my current readme file in github i dont like it at all can you make something better for me
+---
+
+> _"Code with security in mind."_ 🔐
