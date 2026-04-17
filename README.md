@@ -1,10 +1,12 @@
 <!-- Profile Header -->
 <h1 align="left">Hi 👋, I'm Adham Shawki</h1>
 <h3 align="left">💻 Cybersecurity Student | 📱 Web & Mobile Apps Developer</h3>
+
 ---
 ### 🚀 About Me  
 I'm an **18-year-old developer** passionate about building **secure, scalable, and user-friendly applications**.  
 Currently diving deep into the **world of cybersecurity** while developing **web & mobile apps**.  
+
 ---
 ### 🛠 Tech Stack  
 <div align="left">
