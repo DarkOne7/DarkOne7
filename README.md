@@ -18,20 +18,12 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-</div>
----
-### 📌 Featured Projects  
-- **[Latest website](https://exact-business.com)** – A web platform with a modern design, strong authentication & security features.  
-- **[Mobile Task Manager](#)** – Flutter-based mobile app for productivity.  
-- **[Portfolio Website](https://adham-shawki.com)** – My personal responsive portfolio.  
+</div> 
 ---
 ### 📊 GitHub Stats  
 <div align="left">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight" height="150" />
-  <!-- GitHub Streak Card (Backup Service) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darkone7&theme=tokyonight&hide_border=true" height="150" />
-  <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight" height="150" />
 </div>
 ---
