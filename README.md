@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1 align="left">Hi 👋, I'm Adham Shawki</h1>
-<h3 align="left">💻 Cybersecurity Student | 📱 Web & Mobile Apps Developer</h3>
+<h1 align="center">Hi 👋, I'm Adham Shawki</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Cyber+Security+Student;Full-stack+Web+Developer;Coding+With+Security+in+Mind;Open+Source+Contributor)](https://git.io/typing-svg)
 ---
 ### 🚀 About Me  
 I'm an **18-year-old developer** passionate about building **secure, scalable, and user-friendly applications**.  
