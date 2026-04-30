@@ -41,7 +41,6 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 - **LinkedIn:** [linkedin.com/in/adham-shawki/](https://www.linkedin.com/in/adham-shawki-135034204/)
 - **Email:** adhamshawki@outlook.com
 </div>
-</div>
 
 ---
 
