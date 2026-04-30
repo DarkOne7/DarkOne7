@@ -2,44 +2,73 @@
 <h1 align="center">Hi 👋, I'm Adham Shawki</h1>
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Cyber+Security+Student;Full-stack+Web+Developer;Coding+With+Security+in+Mind;Open+Source+Contributor)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Cyber+Security+Student;Full-stack+Web+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
 </div>
+
 ---
-<div align = "center">
-### 🚀 About Me  
+
+<div align="center">
+
+### 🚀 About Me
+
 I'm an **18-year-old developer** passionate about building **secure, scalable, and user-friendly applications**.  
-Currently diving deep into the **world of cybersecurity** while developing **web & mobile apps**.  
+Currently diving deep into the **world of cybersecurity** while developing **web & mobile apps**.
+
 </div>
+
 ---
-### 🛠 Tech Stack  
+
+### 🛠 Tech Stack
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-</div> 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
-
-### 📊 GitHub Stats  
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
-<div align = "center">
+
+### 🌱 Currently Learning
+
+- Network Security & Penetration Testing
+- Docker & containerization
+- TypeScript
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=darkone7&theme=tokyonight)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=darkone7&color=blue&style=flat)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📫 Connect with Me
-- **GitHub:** [github.com/darkone7](https://github.com/darkone7)
-- **LinkedIn:** [linkedin.com/in/adham-shawki/](https://www.linkedin.com/in/adham-shawki-135034204/)
-- **Email:** adhamshawki@outlook.com
+
+[![GitHub](https://img.shields.io/badge/GitHub-darkone7-181717?style=for-the-badge&logo=github)](https://github.com/darkone7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adham%20Shawki-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adham-shawki-135034204/)
+[![Email](https://img.shields.io/badge/Email-adhamshawki%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:adhamshawki@outlook.com)
+
 </div>
 
 ---
