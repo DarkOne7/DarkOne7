@@ -1,15 +1,18 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Adham Shawki</h1>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Cyber+Security+Student;Full-stack+Web+Developer;Coding+With+Security+in+Mind;Open+Source+Contributor)](https://git.io/typing-svg)
+</div>
 ---
+<div align = "center">
 ### 🚀 About Me  
 I'm an **18-year-old developer** passionate about building **secure, scalable, and user-friendly applications**.  
 Currently diving deep into the **world of cybersecurity** while developing **web & mobile apps**.  
-
+</div>
 ---
 ### 🛠 Tech Stack  
-<div align="left">
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,18 +28,19 @@ Currently diving deep into the **world of cybersecurity** while developing **web
 ---
 
 ### 📊 GitHub Stats  
-<div align="left">
+<div align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=darkone7&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkone7&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
-
+<div align = "center">
 ## 📫 Connect with Me
 - **GitHub:** [github.com/darkone7](https://github.com/darkone7)
 - **LinkedIn:** [linkedin.com/in/adham-shawki/](https://www.linkedin.com/in/adham-shawki-135034204/)
 - **Email:** adhamshawki@outlook.com
+</div>
 </div>
 
 ---
