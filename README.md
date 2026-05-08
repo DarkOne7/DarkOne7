@@ -38,7 +38,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/darkone7](https://github.com/darkone7)
